@@ -1,0 +1,7 @@
+Event           CompSymbol      Number      PricePerShare   TotalValue      Time            
+Buy             AAPL            20          $199.92         $3998.40        0:37:29         
+Buy             MSFT            150         $29.62          $4443.00        0:38:2          
+Sell            AAPL            10          $197.92         $1979.20        0:39:29         
+Sell            MSFT            100         $29.62          $2962.00        0:39:43         
+Sell            MSFT            50          $29.62          $1481.00        0:40:3          Event           CompSymbol      Number      PricePerShare   TotalValue      Time            
+Sell            AAPL            10          $197.92         $1979.20        0:43:28         
